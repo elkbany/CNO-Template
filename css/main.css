@@ -209,16 +209,19 @@ nav ul a:hover{
 .slider .container .text h3{
     font-size: 50px;
     font-weight: 400;
+    color: #ff5e14;
 }
 
 .slider .container .text h1{
     font-size: 100px;
     margin: 0;
+    color: #273272;
 }
 
 .slider .container .text .description{
     font-size: 22px;
     width: 85%;
+    color: dimgrey;
 }
 
 .slider .container .services{
